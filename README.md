@@ -2,4 +2,4 @@
 Projeto criado em Bootcamp da plataforma de ensino DigitalInovationOne
 
 ## Detalhes do projeto
-Projeto desenvolvido com o objetivo de praticar conceitos de html5, css3, durante participação em Bootcamps da plataforma DigitalInovationOne.
+Projeto desenvolvido durante participação em Bootcamps da plataforma DigitalInovationOne, com o objetivo de praticar conceitos de html5 e técnicas flexbox para posicionamento de elementos html.
